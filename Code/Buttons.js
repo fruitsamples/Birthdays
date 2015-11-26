@@ -5,7 +5,7 @@ File: Buttons.js
 Abstract: Abstract button creation for Birthdays
 	example widget.
 
-Version: 1.1
+Version: 1.2
 
 
 Disclaimer: IMPORTANT:  This Apple software is supplied to you by 
@@ -46,7 +46,7 @@ AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE),
 STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-Copyright (C) 2006-2007 Apple Inc. All Rights Reserved.
+Copyright (C) 2010-2006 Apple Inc. All Rights Reserved.
 
 */
 

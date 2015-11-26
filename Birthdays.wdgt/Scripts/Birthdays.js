@@ -5,7 +5,7 @@ File: Birthdays.js
 Abstract: Basic display code and plug-in interfacing for Birthdays
 	example widget.
 
-Version: 1.1
+Version: 1.2
 
 Disclaimer: IMPORTANT:  This Apple software is supplied to you by 
 Apple Inc. ("Apple") in consideration of your agreement to the
@@ -45,7 +45,7 @@ AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE),
 STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-Copyright (C) 2006-2007 Apple Inc. All Rights Reserved.
+Copyright (C) 2010-2006 Apple Inc. All Rights Reserved.
 
 */
 
